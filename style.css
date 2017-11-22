@@ -1,0 +1,29 @@
+html {
+	background: grey;
+}
+
+
+h2 {
+	text-align: center;
+	color: #99ccff;
+	font-family: 'Indie Flower', cursive;
+}
+
+.bunny {
+	width: 80%;
+	border: #99ccff solid 1px;
+	padding: 14px;
+	margin-left: 40px;
+}
+
+#guess {
+	background: #f0f5f5;
+	font: pink;
+	text-align: center;
+}
+
+.answer {
+	font-family: 'Indie Flower', cursive;
+	color: pink;
+}
+
